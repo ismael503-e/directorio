@@ -9,4 +9,6 @@ aca en github modif. 1
 
 {
     este apartado es para la rama que fusiono vs 1.0
+
+--añado esto tambien para la rama que me olvide jejej
 }
