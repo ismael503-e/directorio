@@ -1,2 +1,8 @@
 este es el texto para este archivo de prueba 
 is version 1.0 
+
+este pongo mas texto del 2do modif.. 
+is version 2.0
+
+este texto esta demas jeeje
+aca en github modif. 1 
