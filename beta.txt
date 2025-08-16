@@ -6,3 +6,7 @@ is version 2.0
 
 este texto esta demas jeeje
 aca en github modif. 1 
+
+{
+    este apartado es para la rama que fusiono vs 1.0
+}
